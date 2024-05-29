@@ -1,3 +1,10 @@
+# I have used the redux toolkit in this project to learn that how redux is working 
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
