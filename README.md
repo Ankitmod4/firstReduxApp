@@ -1,5 +1,4 @@
-# I have used the redux toolkit in this project to learn that how redux is working 
-
+# I have used the redux toolkit in this project to learn that how redux is workin
 
 
 
